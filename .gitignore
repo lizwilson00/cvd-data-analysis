@@ -1,0 +1,4 @@
+# Ignore the dataset itself
+cardiovascular-disease-dataset/
+.DS_Store
+.ipynb_checkpoints/
