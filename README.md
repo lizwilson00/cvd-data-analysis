@@ -20,7 +20,7 @@ The project is contained within this [Jupyter Notebook](CVD_Analysis_Project.ipy
 
 
 ### The Dataset
-The dataset that will be analyzed is a cardio vascular dataset with 1000 rows, each representing a different patient and 14 features about that patient. The dataset is from Kaggle and the data originates from a hospital in India. 
+The dataset that will be analyzed is a cardio vascular dataset with 1000 rows, each representing a different patient and 14 features about that patient. The dataset is from [Kaggle](https://www.kaggle.com/datasets/jocelyndumlao/cardiovascular-disease-dataset/data) and the data originates from a hospital in India. 
 
 ### Data Preparation and Cleaning
 * There were a number of 0 values for cholesterol so those values were replaced with NaN values so that 0 would not be mistaken for a valid value
