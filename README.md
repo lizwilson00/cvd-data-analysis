@@ -32,7 +32,7 @@ The dataset that will be analyzed is a cardio vascular dataset with 1000 rows, e
 * First task is to classify each of our variables as numeric or categorical.  Additional analysis was done for the number of major vessels and chest pain variables. 
 * The histograms of the numeric variables reveal that a number of them are not normally distributed (which will cause issues when the logistic regression model is built)
 * The pairwise correlation matrix reveals that several variables are highly correlated with the target variable (slope, resting blood pressure, and resting electrocardiogram results).  We also see that we have some significant correlations between non-target variables (oldpeak and gender, chest pain and slope, and number of major vessels and slope).
-![Correlation Heatmap](images/corr_hmp.jpgcorr_hmp.jpg "Correlation Heatmap")
+![Correlation Heatmap](images/corr_hmp.jpg "Correlation Heatmap")
 
 ### Questions and Data Discovery
 #### Slope
